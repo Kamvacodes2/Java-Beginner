@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Java Dummies/source code/Java Dummies Work/Book_2/Chapters/chapter5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Dummies/source code/Java Dummies Work/Book_2/Chapters/chapter6/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Dummies/source code/Java Dummies Work/Book_2/Chapters/chapter7/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Dummies/source code/Java Dummies Work/Book_2/Chapters/chapter8/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Dummies/source code/Java Dummies Work/Book_3/Book_3/chapters/chapter_2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Dummies/source code/Java Dummies Work/Book_3/Book_3/chapters/chapter_3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Dummies/source code/Java Dummies Work/Book_3/Book_3/chapters/chapter_4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Dummies/source code/Java Dummies Work/Book_3/Book_3/chapters/chapter_5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Dummies/source code/Java Dummies Work/Book_3/Book_3/chapters/chapter_6/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Dummies/source code/Java Dummies Work/Book_3/Book_3/chapters/chapter_7/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Dummies/source code/Java Dummies Work/Book_3/Book_3/chapters/chapter_8/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaExercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Source Code/D83527GC10_labs/D83527GC10_labs/labs/JavaBeginnerExercises/Chapter_13/practice2/Practice2/13-UsingInterfaces_Solution2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Source Code/D83527GC10_labs/D83527GC10_labs/labs/JavaBeginnerExercises/Chapter_13/practice_1/Practice1/13-UsingInterfaces_Solution1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Source Code/D83527GC10_labs/D83527GC10_labs/labs/JavaBeginnerExercises/Chapter_13/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Source Code/D83527GC10_labs/D83527GC10_labs/labs/JavaBeginnerExercises/Chapter_14/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Source Code/D83527GC10_labs/D83527GC10_labs/labs/JavaBeginnerExercises/Chapter_15/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
